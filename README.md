@@ -27,11 +27,13 @@ I’m certified in **Microsoft Azure Data Fundamentals (DP-900)** and **Azure Da
   <tr>
     <td valign="top" width="70%">
 <ul>
-  <li>📱 <strong>Mobile & Web</strong>: Ionic, Angular, React, React Native</li>
-  <li>☁️ <strong>Cloud</strong>: Microsoft Azure, Azure Machine Learning, Azure Data Factory</li>
-  <li>🧠 <strong>Data Science</strong>: Python, SQL, Pandas, Scikit-Learn, Matplotlib</li>
-  <li>🛠️ <strong>Tools</strong>: Git, VSCode, Postman, Docker (basics), Jupyter Notebooks, Power BI</li>
-  <li>🧬 <strong>Learning</strong>: Azure Databricks, Microsoft Fabric</li>
+  <li>💻 <strong>Programming Languages</strong>: Java, Python, JavaScript, Kotlin, SQL</li>
+  <li>📚 <strong>Python Libraries</strong>: NumPy, Pandas, SciPy, Scikit-learn, Matplotlib, Seaborn</li>
+  <li>📱 <strong>Mobile & Web Development</strong>: Ionic, Angular, React, React Native, Android (Java/Kotlin)</li>
+  <li>☁️ <strong>Cloud Platforms</strong>: Microsoft Azure, Azure Machine Learning, Azure Data Factory</li>
+  <li>🔧 <strong>Developer Tools</strong>: Git, VS Code, Postman, Jupyter Notebook, Power BI</li>
+  <li>🚀 <strong>Deployment & DevOps</strong>: Docker, Kubernetes, MLflow, MLOps</li>
+  <li>🔬 <strong>Currently Exploring</strong>: Azure Databricks, Azure Synapse Analytics, Microsoft Fabric, Kubeflow</li>
 </ul>
    </td>
     <td valign="top" width="30%">
@@ -50,7 +52,6 @@ I’m certified in **Microsoft Azure Data Fundamentals (DP-900)** and **Azure Da
 ## 📬 Let's Connect
 
 - 📫 [Email](mailto:vignesh1996rajendran@gmail.com)  
-- 🌐 [Portfolio](https://portfolio.vigneshvision.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/vignesh-rajendran-436a6a256/)
 
 ---
@@ -58,4 +59,3 @@ I’m certified in **Microsoft Azure Data Fundamentals (DP-900)** and **Azure Da
 ## 📈 GitHub Contributions
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vignesh96-R&theme=github_dark)  
-![Vignesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vignesh96-R&show_icons=true&theme=github_dark)
