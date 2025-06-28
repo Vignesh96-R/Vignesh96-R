@@ -17,14 +17,13 @@ Despite coming from a non-traditional background, I'm constantly upskilling in c
 <table>
   <tr>
     <td valign="top" width="70%">
-```yaml
-- 📱 **Mobile & Web**: Ionic, Angular, React, React Native, Android Native
-- 
-- ☁️ **Cloud**: Microsoft Azure, Azure Machine Learning, Azure Data Factory  
-- 🧠 **Data Science**: Python, SQL, Pandas, Scikit-Learn, Matplotlib  
-- 🛠️ **Tools**: Git, VSCode, Postman, Docker (basics), Jupyter Notebooks, Power BI  
-- 🧬 **Learning**: Azure Databricks, Microsoft Fabric
-```
+<ul>
+  <li>📱 <strong>Mobile & Web</strong>: Ionic, Angular, React, React Native</li>
+  <li>☁️ <strong>Cloud</strong>: Microsoft Azure, Azure Machine Learning, Azure Data Factory</li>
+  <li>🧠 <strong>Data Science</strong>: Python, SQL, Pandas, Scikit-Learn, Matplotlib</li>
+  <li>🛠️ <strong>Tools</strong>: Git, VSCode, Postman, Docker (basics), Jupyter Notebooks, Power BI</li>
+  <li>🧬 <strong>Learning</strong>: Azure Databricks, Microsoft Fabric</li>
+</ul>
    </td>
     <td valign="top" width="30%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vignesh96-R&theme=github_dark" />
