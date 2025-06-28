@@ -69,6 +69,3 @@ I’m certified in **Microsoft Azure Data Fundamentals (DP-900)** and **Azure Da
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vignesh96-R&theme=github_dark)  
 
 
-### 🐍 GitHub Activity Snake
-
-![Snake animation](https://github.com/Vignesh96-R/Vignesh96-R/blob/output/github-contribution-grid-snake.svg)
