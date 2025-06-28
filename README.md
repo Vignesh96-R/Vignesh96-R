@@ -1,6 +1,6 @@
-# Hi 👋, I'm Vignesh
 
-**Software Developer | Aspiring Data Scientist | Cloud Enthusiast**
+<h1 align="center">Hi 👋, I'm Vignesh</h1>
+<h3 align="center">Software Developer | Aspiring Data Scientist | Cloud Enthusiast</h3>
 
 ---
 
@@ -16,25 +16,21 @@ Despite coming from a non-traditional background, I'm constantly upskilling in c
 
 <table>
   <tr>
-    <td valign="top" width="55%">
-
-<ul>
-  <li>📱 <strong>Mobile & Web</strong>: Ionic, Angular, React, React Native</li>
-  <li>☁️ <strong>Cloud</strong>: Microsoft Azure, Azure Machine Learning, Azure Data Factory</li>
-  <li>🧠 <strong>Data Science</strong>: Python, SQL, Pandas, Scikit-Learn, Matplotlib</li>
-  <li>🛠️ <strong>Tools</strong>: Git, VSCode, Postman, Docker (basics), Jupyter Notebooks, Power BI</li>
-  <li>🧬 <strong>Learning</strong>: Azure Databricks, Microsoft Fabric</li>
-</ul>
-
-</td>
-<td valign="top" width="45%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vignesh96-R&layout=compact&theme=github_dark" />
-
-</td>
-</tr>
+    <td valign="top" width="70%">
+```yaml
+- 📱 **Mobile & Web**: Ionic, Angular, React, React Native, Android Native
+- 
+- ☁️ **Cloud**: Microsoft Azure, Azure Machine Learning, Azure Data Factory  
+- 🧠 **Data Science**: Python, SQL, Pandas, Scikit-Learn, Matplotlib  
+- 🛠️ **Tools**: Git, VSCode, Postman, Docker (basics), Jupyter Notebooks, Power BI  
+- 🧬 **Learning**: Azure Databricks, Microsoft Fabric
+```
+   </td>
+    <td valign="top" width="30%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vignesh96-R&theme=github_dark" />
+    </td>
+  </tr>
 </table>
-
 ---
 
 ## 💡 Personal Values
@@ -51,6 +47,5 @@ Despite coming from a non-traditional background, I'm constantly upskilling in c
 
 ## 📊 GitHub Stats
 
-![Vignesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vignesh96-R&show_icons=true&theme=github_dark)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vignesh96-R&theme=github_dark)
+
