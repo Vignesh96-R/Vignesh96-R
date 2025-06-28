@@ -30,8 +30,8 @@ Despite coming from a non-traditional background, I'm constantly upskilling in c
     </td>
   </tr>
 </table>
----
 
+---
 ## 💡 Personal Values
 > "Build with clarity. Learn with intensity. Share with humility."
 
