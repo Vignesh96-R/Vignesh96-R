@@ -3,7 +3,11 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F700&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Vignesh!" alt="Typing SVG" />
 </h1>
-<h3 align="center">Software Developer | Aspiring Data Scientist | Cloud Enthusiast</h3>
+<h3 align="center">
+  <img src="https://img.shields.io/badge/Software%20Developer-blue?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Aspiring%20Data%20Scientist-purple?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/Cloud%20Enthusiast-orange?style=flat-square&logo=azure-devops" />
+</h3>
 
 ---
 
