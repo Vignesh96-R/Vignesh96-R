@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Vignesh</h1>
 <h3 align="center">Software Developer | Aspiring Data Scientist | Cloud Enthusiast</h3>
 
@@ -6,9 +5,19 @@
 
 ## 🧠 About Me
 
-I'm a passionate developer transitioning from mobile and web development into the world of **Data Science** and **AI**. With 3+ years of experience building real-world applications and solving frontend/backend issues, I bring a problem-solving mindset and a strong foundation in software.
+I'm a passionate developer transitioning from mobile and web development into the world of **Data Science** and **AI**.  
+With 3+ years of experience in building real-world applications and solving frontend/backend challenges, I bring a strong foundation in software engineering and a proactive problem-solving mindset.
 
-Despite coming from a non-traditional background, I'm constantly upskilling in cloud-based platforms, statistical modeling, and machine learning techniques.
+Despite coming from a non-traditional background, I’m continuously upskilling in **cloud platforms**, **statistical modeling**, and **machine learning techniques**.
+
+I’m certified in **Microsoft Azure Data Fundamentals (DP-900)** and **Azure Data Scientist Associate (DP-100)**.
+
+---
+
+## 📜 Certifications
+
+- ✅ Microsoft Certified: Azure Data Fundamentals (DP-900)  
+- ✅ Microsoft Certified: Azure Data Scientist Associate (DP-100)
 
 ---
 
@@ -26,25 +35,27 @@ Despite coming from a non-traditional background, I'm constantly upskilling in c
 </ul>
    </td>
     <td valign="top" width="30%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vignesh96-R&theme=github_dark" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vignesh96-R&theme=github_dark&layout=compact" alt="Most Used Languages"/>
     </td>
   </tr>
 </table>
 
 ---
+
 ## 💡 Personal Values
 > "Build with clarity. Learn with intensity. Share with humility."
 
 ---
 
 ## 📬 Let's Connect
+
 - 📫 [Email](mailto:vignesh1996rajendran@gmail.com)  
 - 🌐 [Portfolio](https://portfolio.vigneshvision.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/vignesh-rajendran-436a6a256/)
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Contributions
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vignesh96-R&theme=github_dark)
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vignesh96-R&theme=github_dark)  
+![Vignesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vignesh96-R&show_icons=true&theme=github_dark)
