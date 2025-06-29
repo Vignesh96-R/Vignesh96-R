@@ -1,6 +1,5 @@
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=🚀+Transforming+ideas+into+code+|+Vignesh+here." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+Transforming+ideas+into+code+%7C+Vignesh+here." alt="Typing SVG" />
 </h1>
 
 <h3 align="center">
