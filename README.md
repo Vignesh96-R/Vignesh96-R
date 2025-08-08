@@ -24,9 +24,4 @@ A passionate Data Scientist and Full-Stack Developer with a knack for creating e
 
 ---
 
-## 📈 GitHub Contributions
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vignesh96-R&theme=github_dark" alt="Typing SVG" />
-</h1>
-
 
